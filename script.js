@@ -1,7 +1,7 @@
 const hh = document.getElementById("hh");
 
 hh.addEventListener("mouseover",()=>{
-    hh.innerText = "Palm Tree Club"
+    hh.innerText = "RDE"
 })
 
 hh.addEventListener("mouseleave",()=>{
